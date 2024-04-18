@@ -1,0 +1,9 @@
+<statistics>
+	<item><value>THRILLER</value><count>4</count></item>
+	<item><value>ROMANCE</value><count>3</count></item>
+	<item><value>FANTASY</value><count>2</count></item>
+	<item><value>HORROR</value><count>2</count></item>
+	<item><value>MYSTERY</value><count>2</count></item>
+	<item><value>SCIENCE_FICTION</value><count>2</count></item>
+	<item><value>NON_FICTION</value><count>1</count></item>
+</statistics>

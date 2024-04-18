@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Book 1",
+    "publishYear": "2010",
+    "genres": "ROMANCE",
+    "author": {
+      "name": "Jane Smith",
+      "age": 40,
+      "nationality": "British",
+      "birthday": "1984-08-20"
+    },
+    "description": "A romantic novel set in Paris."
+  },
+  {
+    "title": "Book 2",
+    "publishYear": "2008",
+    "genres": "SCIENCE_FICTION",
+    "author": {
+      "name": "Alex Johnson",
+      "age": 45,
+      "nationality": "Canadian",
+      "birthday": "1979-03-10"
+    },
+    "description": "An epic tale of intergalactic adventure."
+  },
+  {
+    "title": "Book 3",
+    "publishYear": "2015",
+    "genres": "THRILLER",
+    "author": {
+      "name": "Michael Brown",
+      "age": 55,
+      "nationality": "American",
+      "birthday": "1969-11-25"
+    },
+    "description": "A gripping mystery that will keep you on the edge of your seat."
+  },
+  {
+    "title": "Book 4",
+    "publishYear": "2003",
+    "genres": "MYSTERY",
+    "author": {
+      "name": "Emily Clark",
+      "age": 30,
+      "nationality": "Australian",
+      "birthday": "1994-06-05"
+    },
+    "description": "A thrilling detective story set in Victorian London."
+  },
+  {
+    "title": "Book 5",
+    "publishYear": "2018",
+    "genres": "FANTASY",
+    "author": {
+      "name": "David Wilson",
+      "age": 38,
+      "nationality": "Irish",
+      "birthday": "1986-02-15"
+    },
+    "description": "A magical journey through enchanted lands."
+  },
+  {
+    "title": "Book 6",
+    "publishYear": "2001",
+    "genres": "NON_FICTION",
+    "author": {
+      "name": "Sarah Lee",
+      "age": 50,
+      "nationality": "Swedish",
+      "birthday": "1974-09-30"
+    },
+    "description": "An insightful exploration of modern economics."
+  },
+  {
+    "title": "Book 7",
+    "publishYear": "2007",
+    "genres": "HORROR",
+    "author": {
+      "name": "Daniel Miller",
+      "age": 42,
+      "nationality": "German",
+      "birthday": "1982-12-12"
+    },
+    "description": "A spine-chilling tale of supernatural terror."
+  },
+  {
+    "title": "Book 8",
+    "publishYear": "2012",
+    "genres": "ROMANCE",
+    "author": {
+      "name": "Anna Taylor",
+      "age": 36,
+      "nationality": "French",
+      "birthday": "1988-07-18"
+    },
+    "description": "A love story that transcends time and space."
+  },
+  {
+    "title": "Book 9",
+    "publishYear": "2016",
+    "genres": "THRILLER",
+    "author": {
+      "name": "James Wilson",
+      "age": 48,
+      "nationality": "British",
+      "birthday": "1976-05-22"
+    },
+    "description": "A heart-pounding race against the clock."
+  },
+  {
+    "title": "Book 10",
+    "publishYear": "2006",
+    "genres": "MYSTERY",
+    "author": {
+      "name": "Sophia Brown",
+      "age": 33,
+      "nationality": "American",
+      "birthday": "1991-10-08"
+    },
+    "description": "A thrilling whodunit set in a small town."
+  },
+  {
+    "title": "Book 11",
+    "publishYear": "2019",
+    "genres": "FANTASY",
+    "author": {
+      "name": "William Johnson",
+      "age": 55,
+      "nationality": "British",
+      "birthday": "1969-08-03"
+    },
+    "description": "A tale of magic and adventure in a mythical kingdom."
+  },
+  {
+    "title": "Book 12",
+    "publishYear": "2009",
+    "genres": "ROMANCE",
+    "author": {
+      "name": "Olivia White",
+      "age": 41,
+      "nationality": "American",
+      "birthday": "1983-04-29"
+    },
+    "description": "A tender love story set against the backdrop of war."
+  },
+  {
+    "title": "Book 13",
+    "publishYear": "2013",
+    "genres": "SCIENCE_FICTION",
+    "author": {
+      "name": "Lucas Martinez",
+      "age": 37,
+      "nationality": "Spanish",
+      "birthday": "1987-11-15"
+    },
+    "description": "A futuristic vision of a world transformed by technology."
+  },
+  {
+    "title": "Book 14",
+    "publishYear": "2004",
+    "genres": "HORROR",
+    "author": {
+      "name": "Sophie Taylor",
+      "age": 28,
+      "nationality": "British",
+      "birthday": "1996-03-14"
+    },
+    "description": "A terrifying tale of the supernatural."
+  },
+  {
+    "title": "Book 15",
+    "publishYear": "2017",
+    "genres": "THRILLER",
+    "author": {
+      "name": "Jack Brown",
+      "age": 47,
+      "nationality": "American",
+      "birthday": "1977-09-05"
+    },
+    "description": "A pulse-pounding rollercoaster ride of suspense."
+  },
+  {
+    "title": "Book 16",
+    "publishYear": "2004",
+    "genres": "THRILLER",
+    "author": {
+      "name": "Sophie Taylor",
+      "age": 28,
+      "nationality": "British",
+      "birthday": "1996-03-14"
+    },
+    "description": "A terrifying tale of the supernatural."
+  }
+]
